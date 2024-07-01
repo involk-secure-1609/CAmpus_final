@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "505912103072",
+    "project_id": "kritiii",
+    "storage_bucket": "kritiii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505912103072:android:8b00547668e52d63af79c5",
+        "android_client_info": {
+          "package_name": "com.example.campuscollaborate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2F9txnqPnguvsXVzX2G8cDDbAIMqSOy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
